@@ -1,3 +1,3 @@
 #!/bin/bash
-ls | head | sort --sort=numeric
+ls -t1 | head
 
